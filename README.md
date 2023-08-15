@@ -8,5 +8,5 @@ I am Nahas Nissar. A Fullstack Developer specialized in MERN stack. Passionate a
 
 
 
-  <img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie/developer-working-on-computer-4337851">
+  <img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/developer-working-on-computer-4337851-3618988.mp4?h=700">
 
