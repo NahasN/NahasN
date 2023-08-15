@@ -12,7 +12,7 @@ I am Nahas Nissar. A Fullstack Developer specialized in MERN stack. Passionate a
 
 
 <h3 align="left">Connect with me:</h3>
-<div style= backgroundcolor:"white">
+<div style= "backgroundcolor" : "white">
 <p align="left">
 <a href="https://twitter.com/NahasNissar" target="blank"><img align="center" src="![image](https://github.com/NahasN/NahasN/assets/51850372/65a21f55-b091-4717-ab0c-955587c931d0)
 " alt="" height="30" width="40" /></a>
